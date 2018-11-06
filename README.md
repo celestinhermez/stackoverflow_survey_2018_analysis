@@ -5,7 +5,7 @@ users and made available the results for everyone to see and analyze. With
 each iteration some questions have been added, and the responses enable a deep
 look into the developers who use the platform on a daily basis, both as 
 contributers and as users. 
-The results of this analysis are in the file *developer_survey_2018.zip*.
+The results of this analysis are in the file **developer_survey_2018.zip**.
 
 In 2018, almost 100,000 people responded to the 129 questions of the survey,
 on topics as varied as demographics (gender, age, country), professional
