@@ -17,7 +17,9 @@ conducted on these results. I was particularly interested in the languages
 that are popular, whether it is possible to extract elements associated with
 higher job satisfaction and who a "typical" developer is. For these three
 topics, I also seeked to determine whether the subgroup of data scientists
-differs in any way for other, more traditional developers. 
+differs in any way for other, more traditional developers. To conduct the
+analysis, I used the CRISP-DM method, which consisted in gathering, wrangling,
+preparing, modeling and presenting the data and my results. 
 
 A summary of the insights from this analysis can be found in my Medium blog
 post. 
