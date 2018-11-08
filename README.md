@@ -4,7 +4,9 @@ For the past 7 years, Stack Overflow has been distributing a survey to its
 users and made available the results for everyone to see and analyze. With
 each iteration some questions have been added, and the responses enable a deep
 look into the developers who use the platform on a daily basis, both as 
-contributers and as users. 
+contributers and as users. As a data scientist, I do not consider myself
+a traditional developer, and I wanted to confirm whether the respondents
+to this survey agree with me.
 The results of this analysis are in the file **developer_survey_2018.zip**.
 
 In 2018, almost 100,000 people responded to the 129 questions of the survey,
@@ -21,5 +23,21 @@ differs in any way for other, more traditional developers. To conduct the
 analysis, I used the CRISP-DM method, which consisted in gathering, wrangling,
 preparing, modeling and presenting the data and my results. 
 
+The libraries used for this project are, and will need to be installed to 
+sucessfully run the notebook:
+- pandas
+- numpy
+- sklearn
+- matplotlib
+- scipy
+- zipfile
+- os
+- re
+- math
+- seaborn
+
 A summary of the insights from this analysis can be found in my Medium blog
-post. 
+post. It showed that although data scientists do not fundamentally differ
+from other developers with regards to the languages they use or how satisfied 
+they are with their jobs, they have different backgrounds and come from a 
+different demographic. 
