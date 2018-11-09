@@ -32,6 +32,7 @@ sucessfully run the notebook:
 - scipy
 - zipfile
 - os
+- random
 - re
 - math
 - seaborn
