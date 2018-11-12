@@ -37,8 +37,8 @@ sucessfully run the notebook:
 - math
 - seaborn
 
-A summary of the insights from this analysis can be found in my Medium blog
-post. It showed that although data scientists do not fundamentally differ
+A summary of the insights from this analysis can be found in my [Medium blog
+post] (https://medium.com/@celestinhermez/are-data-scientists-typical-developers-an-analysis-of-the-2018-stack-overflow-survey-afaa23cc7a60). It showed that although data scientists do not fundamentally differ
 from other developers with regards to the languages they use or how satisfied 
 they are with their jobs, they have different backgrounds and come from a 
 different demographic. 
