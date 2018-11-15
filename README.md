@@ -21,7 +21,8 @@ higher job satisfaction and who a "typical" developer is. For these three
 topics, I also seeked to determine whether the subgroup of data scientists
 differs in any way for other, more traditional developers. To conduct the
 analysis, I used the CRISP-DM method, which consisted in gathering, wrangling,
-preparing, modeling and presenting the data and my results. 
+preparing, modeling and presenting the data and my results. A HTML version
+of this file is available in the repo.
 
 The libraries used for this project are, and will need to be installed to 
 sucessfully run the notebook:
